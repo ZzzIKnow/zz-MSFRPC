@@ -1,0 +1,8 @@
+com\zz\msfRpc\properties\MSfRpcProperties.class
+com\zz\msfRpc\config\AuthError.class
+com\zz\msfRpc\msf\client\MsfRpcClient.class
+com\zz\msfRpc\entity\Console.class
+com\zz\msfRpc\config\MsfRpcServiceAutoConfiguration.class
+com\zz\msfRpc\entity\Session.class
+com\zz\msfRpc\msf\util\MsfRpcUtils.class
+com\zz\msfRpc\config\ConnectionError.class
